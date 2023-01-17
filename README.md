@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyajoiceshabu" alt="riyajoiceshabu" /></a> </p>
 
-- 🌱 I’m currently learning **SprinBoot**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **HTML5,CSS3,JavaScript,Python,Django,Java,C**
 
